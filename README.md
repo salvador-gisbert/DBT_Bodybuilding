@@ -41,6 +41,7 @@ uv run dbt run
 uv run dbt snapshot
 
 # Generate and view documentation
-```
+
 uv run dbt docs generate
 uv run dbt docs serve
+```
